@@ -2266,4 +2266,3 @@ local function startsettings()
     return env
 end
 
-local savedsettings = startsettings()
