@@ -1,9 +1,3 @@
---[[
-	Mako UI Lib
-		@author 2ds
-		RAHHHHHHHHHHHHHHHHHH
---]]
-
 local MakoLib = {}
 local Objects = (game:GetService("RunService"):IsStudio() and game.ReplicatedStorage.MakoUI) or game:GetObjects("rbxassetid://13764298778")[1]
 local MainColor = Color3.fromRGB(247, 64, 103)
